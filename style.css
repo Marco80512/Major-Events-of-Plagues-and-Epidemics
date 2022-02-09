@@ -7,10 +7,10 @@ body, .TNbar{
 	padding:0;
 }
 p {
+  margin :auto;
   font-size: 20px;
+  width: 50%;
 }
 body {
-	
   text-align: center;
-
 }
