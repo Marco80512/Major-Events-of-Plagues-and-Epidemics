@@ -30,6 +30,15 @@ $(document).ready(function() {
 	$("#doctor").fadeToggle("slow");
     $("#Skin").fadeToggle("slow");
 	
+	$("#LGP1").click(function(){
+  
+  
+	$("#LGP1").fadeToggle("slow");
+    $("#LGP").fadeToggle("slow");
+  });
+    $("#LGP").click(function(){
+	$("#LGP1").fadeToggle("slow");
+    $("#LGP").fadeToggle("slow");
 	});
 	
 	
