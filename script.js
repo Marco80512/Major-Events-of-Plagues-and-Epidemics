@@ -30,6 +30,7 @@ $(document).ready(function() {
 	$("#doctor").fadeToggle("slow");
     $("#Skin").fadeToggle("slow");
 	
+  });
 	$("#LGP1").click(function(){
   
   
@@ -39,6 +40,39 @@ $(document).ready(function() {
     $("#LGP").click(function(){
 	$("#LGP1").fadeToggle("slow");
     $("#LGP").fadeToggle("slow");
+	
+  });
+	$("#PBD").click(function(){
+  
+  
+	$("#PBD").fadeToggle("slow");
+    $("#Plague").fadeToggle("slow");
+  });
+    $("#Plague").click(function(){
+	$("#PBD").fadeToggle("slow");
+    $("#Plague").fadeToggle("slow");
+  });
+	
+	$("#SF").click(function(){
+  
+  
+	$("#SF").fadeToggle("slow");
+    $("#SF1").fadeToggle("slow");
+  });
+    $("#SF1").click(function(){
+	$("#SF").fadeToggle("slow");
+    $("#SF1").fadeToggle("slow");
+  });
+	
+	$("#P").click(function(){
+  
+  
+	$("#V").fadeToggle("slow");
+    $("#P").fadeToggle("slow");
+  });
+    $("#P").click(function(){
+	$("#V").fadeToggle("slow");
+    $("#P").fadeToggle("slow");
 	});
 	
 	
