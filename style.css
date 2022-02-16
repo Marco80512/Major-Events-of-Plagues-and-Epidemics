@@ -44,3 +44,15 @@ body {
 a {
   color: red;
 }
+.BTN{
+    background-color: White;
+	float-right:
+	margin-right: 0px;
+    margin-left: 0px;
+}
+.Button{
+    background-color: White;
+	float-left:
+	margin-right: -1500px;
+    margin-left: -1500px;
+}
