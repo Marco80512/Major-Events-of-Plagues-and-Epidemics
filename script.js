@@ -73,6 +73,28 @@ $(document).ready(function() {
     $("#P").click(function(){
 	$("#V").fadeToggle("slow");
     $("#P").fadeToggle("slow");
+  });
+	
+	$("#YF").click(function(){
+  
+  
+	$("#YF").fadeToggle("slow");
+    $("#YF1").fadeToggle("slow");
+  });
+    $("#YF1").click(function(){
+	$("#YF").fadeToggle("slow");
+    $("#YF1").fadeToggle("slow");
+  });
+	
+	$("#SYF").click(function(){
+  
+  
+	$("#SYF").fadeToggle("slow");
+    $("#YFB").fadeToggle("slow");
+  });
+    $("#YFB").click(function(){
+	$("#SYF").fadeToggle("slow");
+    $("#YFB").fadeToggle("slow");
 	});
 	
 	
